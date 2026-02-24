@@ -1,49 +1,76 @@
 <h1 align="center">Hi, I'm Ali Hamza 👋</h1>
-<h3 align="center">BSIT Student | Developer | AI Enthusiast</h3>
+<h3 align="center">Problem Solver | AI Systems Builder | Full-Stack Developer</h3>
 
 ---
 
-I'm a Bachelor of Science in Information Technology (BSIT) student  
-who enjoys building **practical projects** using modern technologies.
+I build practical, performance-focused systems that solve real problems.
 
-I focus on **learning by doing** — experimenting with local AI systems,  
-automation, and full-stack development.
+From developing portable local AI servers to building full-stack web applications,  
+I enjoy turning complex ideas into working, efficient solutions.
 
----
-
-### 🔭 Currently Working On
-- Portable local AI systems using **llama.cpp**
-- Exploring **GGUF models** and multimodal AI
-- Improving backend & system-level skills
+I believe in **learning by building**, optimizing systems, and understanding how things work at a deeper level.
 
 ---
 
-### 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, C++
-- **AI / ML:** llama.cpp, GGUF models, Stable Diffusion
-- **Web:** HTML, CSS, JavaScript
-- **Tools:** Git, GitHub, VS Code
+## 🚀 What I Focus On
+
+- 🧠 Building **local & offline AI systems**
+- ⚡ Creating performance-driven web applications
+- 🛠 Developing system-level tools and utilities
+- 🔍 Solving technical problems through experimentation & optimization
 
 ---
 
-### 🚀 Projects & Interests
-- Local AI servers (offline & portable)
-- Automation scripts & utilities
-- Full-stack academic projects
-- Learning performance optimization
+## 🧠 AI & Systems Work
+
+- Portable AI setups using **llama.cpp**
+- Working with **GGUF models**
+- Local chatbot implementations
+- Exploring multimodal AI (text + image)
+- Performance optimization for limited hardware environments
 
 ---
 
-### 📚 Currently Learning
-- Advanced backend concepts
-- Multimodal AI (text + image)
-- Software optimization techniques
+## 💻 Development Stack
+
+**Languages:**  
+Python • JavaScript • C++
+
+**AI / ML:**  
+llama.cpp • GGUF • Stable Diffusion • Local LLMs
+
+**Web Development:**  
+Next.js • React • Node.js • HTML • CSS
+
+**Tools & Systems:**  
+Git • Linux • VS Code • System Optimization
 
 ---
 
-### 📫 Connect With Me
-- GitHub: https://github.com/AliHamza-Coder
+## 🔧 Selected Interests
+
+- Offline-first AI architecture
+- Automation & utility tools
+- Secure backend systems
+- Efficient software design
+- Understanding systems beyond surface-level coding
 
 ---
 
-⭐ Always open to learning, improving, and building better systems.
+## 📈 Mindset
+
+I don’t just build features —  
+I focus on understanding systems, performance, and problem-solving at core level.
+
+Always experimenting. Always improving.
+
+---
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/AliHamza-Coder  
+Portfolio: https://alihamzapro.com
+
+---
+
+⭐ Passionate about building real systems that work — not just writing code.
