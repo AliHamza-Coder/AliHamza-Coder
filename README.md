@@ -94,32 +94,45 @@ available  : ✅ Open to Freelance, Jobs & Collaborations
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=AliHamza-Coder&theme=tokyonight&hide_border=true&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=AliHamza-Coder&theme=tokyonight&hide_border=true&show_icons=true&icon_color=00D4FF&title_color=00D4FF&count_private=false&include_all_commits=false" width="49%" />
+<!-- Reliable GitHub stats via shields.io — always works, no downtime -->
+
+![Repos](https://img.shields.io/badge/Public%20Repos-42-00D4FF?style=for-the-badge&logo=github&logoColor=white)
+![Commits](https://img.shields.io/badge/Total%20Commits-485-FF6B35?style=for-the-badge&logo=git&logoColor=white)
+![Streak](https://img.shields.io/badge/Current%20Streak-3%20Days-00D4FF?style=for-the-badge&logo=fire&logoColor=white)
+![Longest Streak](https://img.shields.io/badge/Longest%20Streak-8%20Days-FF6B35?style=for-the-badge&logo=lightning&logoColor=white)
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHamza-Coder&theme=tokyonight&hide_border=true&layout=compact&title_color=00D4FF&count_private=false" width="40%" />
+![Followers](https://img.shields.io/github/followers/AliHamza-Coder?label=Followers&style=for-the-badge&logo=github&color=00D4FF&logoColor=white)
+![Stars](https://img.shields.io/github/stars/AliHamza-Coder?label=Total%20Stars&style=for-the-badge&logo=star&color=FF6B35&logoColor=white)
+![Since](https://img.shields.io/badge/On%20GitHub%20Since-Sep%202024-0057FF?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Milestones
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AliHamza-Coder&theme=tokyonight&no-frame=true&margin-w=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" />
+![42 Repos](https://img.shields.io/badge/🗂️%2042%20Repositories-Actively%20Building-00D4FF?style=flat-square)
+![Open Source](https://img.shields.io/badge/🌟%20Open%20Source-Contributor-FF6B35?style=flat-square)
+![Freelance](https://img.shields.io/badge/💼%20Freelance-Available%20Now-brightgreen?style=flat-square)
+![Student](https://img.shields.io/badge/🎓%20IT%20Student-Pakistan-0057FF?style=flat-square)
+![Web Dev](https://img.shields.io/badge/🌐%20Web%20Developer-Full%20Stack%20Learning-00D4FF?style=flat-square)
+![Cybersecurity](https://img.shields.io/badge/🛡️%20Cybersecurity-Pentesting%20Enthusiast-FF6B35?style=flat-square)
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Activity Overview
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AliHamza-Coder&theme=tokyo-night&hide_border=true&color=00D4FF&line=00D4FF&point=FF6B35&area=true" width="100%" />
+| 📅 On GitHub Since | 📦 Public Repos | 🔥 Commits | ⭐ Current Streak | 🏅 Longest Streak |
+|:---:|:---:|:---:|:---:|:---:|
+| Sep 2024 | 42 | 485+ | 3 Days | 8 Days |
 
 </div>
 
