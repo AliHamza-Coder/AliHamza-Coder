@@ -1,76 +1,36 @@
-<h1 align="center">Hi, I'm Ali Hamza 👋</h1>
-<h3 align="center">Problem Solver | AI Systems Builder | Full-Stack Developer</h3>
+## Hi there 👋,
 
----
+### I'm Ali Hamza, a passionate IT student and developer focusing on web and software development.
+-------
 
-I build practical, performance-focused systems that solve real problems.
+## 🧐 Overview
 
-From developing portable local AI servers to building full-stack web applications,  
-I enjoy turning complex ideas into working, efficient solutions.
+- 🌍 I'm striving to create dynamic websites and robust software solutions
+- 💻 Currently working on projects that involve Python, JavaScript, CSS, and HTML
+- 🚀 Contributing to various projects ranging from network pentesting tools to ecommerce solutions
+- 🌟 Engaged in open-source endeavors like 'Microsoft Activation Scripts'
+- 📊 Moderate GitHub activity with 42 public repos and 147 commits
+- 🤝 Actively collaborating on different projects while maintaining personal repositories
+- 🌐 Welcoming opportunities to expand my skill set and collaborate on innovative projects
 
-I believe in **learning by building**, optimizing systems, and understanding how things work at a deeper level.
+### 🚀 GitHub Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AliHamza-Coder)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliHamza-Coder)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AliHamza-Coder)](https://github.com/AliHamza-Coder)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AliHamza-Coder)](https://git.io/streak-stats)
 
----
+### 💼 Skills & Projects
 
-## 🚀 What I Focus On
+🛠️ **Skills**: Python, JavaScript, HTML, CSS
+🚀 **Projects**:
+- Microsoft Activation Scripts
+- Network pentesting tools
+- Ecommerce solutions
 
-- 🧠 Building **local & offline AI systems**
-- ⚡ Creating performance-driven web applications
-- 🛠 Developing system-level tools and utilities
-- 🔍 Solving technical problems through experimentation & optimization
+### 📫 Contact Me
+- 📧 Email: [mralihamza.bz[email protected]](mailto:mralihamza.bz@email.com)
 
----
+### ⚡ Fun Fact
+I love exploring new technologies and building innovative solutions that can make a difference!
 
-## 🧠 AI & Systems Work
-
-- Portable AI setups using **llama.cpp**
-- Working with **GGUF models**
-- Local chatbot implementations
-- Exploring multimodal AI (text + image)
-- Performance optimization for limited hardware environments
-
----
-
-## 💻 Development Stack
-
-**Languages:**  
-Python • JavaScript • C++
-
-**AI / ML:**  
-llama.cpp • GGUF • Stable Diffusion • Local LLMs
-
-**Web Development:**  
-Next.js • React • Node.js • HTML • CSS
-
-**Tools & Systems:**  
-Git • Linux • VS Code • System Optimization
-
----
-
-## 🔧 Selected Interests
-
-- Offline-first AI architecture
-- Automation & utility tools
-- Secure backend systems
-- Efficient software design
-- Understanding systems beyond surface-level coding
-
----
-
-## 📈 Mindset
-
-I don’t just build features —  
-I focus on understanding systems, performance, and problem-solving at core level.
-
-Always experimenting. Always improving.
-
----
-
-## 📫 Connect With Me
-
-GitHub: https://github.com/AliHamza-Coder  
-Portfolio: https://alihamzapro.com
-
----
-
-⭐ Passionate about building real systems that work — not just writing code.
+Feel free to reach out for collaborations, discussions, or just to chat about coding and tech. Let's create something awesome together! 🌟
