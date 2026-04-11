@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0057FF&height=200&section=header&text=Ali%20Hamza&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Tech%20Explorer%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Ali+Hamza!;Web+%26+Software+Developer;Python+%7C+JavaScript+%7C+HTML+%7C+CSS;Always+Exploring+New+Technologies+🚀;Available+for+Freelance+%26+Collaboration+💼)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=👋+Hi%2C+I'm+Ali+Hamza!;Web+%26+Software+Developer;Python+%7C+AI+%7C+Automation+Engineer;Desktop+Apps+with+Eel+%26+Tkinter+🖥️;Always+Exploring+New+Technologies+🚀;Available+for+Freelance+%26+Collaboration+💼)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,19 +10,21 @@
 
 ## 👨‍💻 About Me
 
-> 🎯 *IT student passionate about web and software development — building dynamic websites and robust software solutions that make a real impact.*
+> 🎯 *IT student passionate about web, software development & AI automation — building dynamic websites, desktop tools, and intelligent solutions that make a real impact.*
 
 ```yaml
 name       : Ali Hamza
-title      : Web & Software Developer
-focus      : Web Development | Software Solutions | New Technologies
+title      : Web & Software Developer | Python Automation & AI Enthusiast
+focus      : Web Dev | AI Automation | Desktop Apps | Cybersecurity
 location   : Pakistan 🇵🇰
 education  : IT Student
 available  : ✅ Open to Freelance, Jobs & Collaborations
 ```
 
 - 🌍 Building **dynamic websites** and **robust software solutions**
-- 🔭 Working with **Python, JavaScript, HTML & CSS**
+- 🤖 Working on **Python AI automation** tools and intelligent scripts
+- 🖥️ Developing **desktop applications** using **Eel**, **Tkinter** & Trumi framework
+- 🔭 Coding with **Python, JavaScript, HTML & CSS** daily
 - 🛡️ Passionate about **network pentesting** & **cybersecurity tools**
 - 🛒 Developing **ecommerce platforms** and real-world web apps
 - 🌟 Contributing to **open-source** projects (e.g. Microsoft Activation Scripts)
@@ -53,13 +55,21 @@ available  : ✅ Open to Freelance, Jobs & Collaborations
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### 🚀 Frameworks & Libraries
+### 🚀 Web Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### 🤖 AI, Automation & Desktop
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Automation](https://img.shields.io/badge/Python_Automation-3776AB?style=flat-square&logo=python&logoColor=white)
+![Eel](https://img.shields.io/badge/Eel_Framework-00D4FF?style=flat-square&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6B35?style=flat-square&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
@@ -87,6 +97,8 @@ available  : ✅ Open to Freelance, Jobs & Collaborations
 | **Microsoft Activation Scripts** | Open-source Windows/Office activation utility | Python, Batch | [View](#) |
 | **Network Pentesting Tools** | Custom scripts for network security analysis | Python, Linux | [View](#) |
 | **Ecommerce Solution** | Full-featured online store with cart & product management | HTML, CSS, JS | [View](#) |
+| **Python AI Automation** | Intelligent automation scripts & AI-powered tools | Python, OpenAI | [View](#) |
+| **Desktop App (Eel)** | Web-based desktop application using Eel framework | Python, Eel, HTML/CSS | [View](#) |
 
 ---
 
@@ -94,18 +106,27 @@ available  : ✅ Open to Freelance, Jobs & Collaborations
 
 <div align="center">
 
-<!-- Reliable GitHub stats via shields.io — always works, no downtime -->
-
+<!-- Quick-glance stats badges — always render, zero downtime -->
 ![Repos](https://img.shields.io/badge/Public%20Repos-42-00D4FF?style=for-the-badge&logo=github&logoColor=white)
 ![Commits](https://img.shields.io/badge/Total%20Commits-485-FF6B35?style=for-the-badge&logo=git&logoColor=white)
-![Streak](https://img.shields.io/badge/Current%20Streak-3%20Days-00D4FF?style=for-the-badge&logo=fire&logoColor=white)
-![Longest Streak](https://img.shields.io/badge/Longest%20Streak-8%20Days-FF6B35?style=for-the-badge&logo=lightning&logoColor=white)
+![Streak](https://img.shields.io/badge/Current%20Streak-3%20Days-00D4FF?style=for-the-badge&logo=apachespark&logoColor=white)
+![Longest Streak](https://img.shields.io/badge/Longest%20Streak-8%20Days-FF6B35?style=for-the-badge&logo=apachespark&logoColor=white)
 
 <br/>
 
 ![Followers](https://img.shields.io/github/followers/AliHamza-Coder?label=Followers&style=for-the-badge&logo=github&color=00D4FF&logoColor=white)
-![Stars](https://img.shields.io/github/stars/AliHamza-Coder?label=Total%20Stars&style=for-the-badge&logo=star&color=FF6B35&logoColor=white)
+![Stars](https://img.shields.io/github/stars/AliHamza-Coder?label=Total%20Stars&style=for-the-badge&logo=github&color=FF6B35&logoColor=white)
 ![Since](https://img.shields.io/badge/On%20GitHub%20Since-Sep%202024-0057FF?style=for-the-badge&logo=github&logoColor=white)
+
+<br/>
+
+<!-- Streak card — best available hosted service -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com/?user=AliHamza-Coder&theme=tokyonight&hide_border=true&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=888888&background=0D1117" />
+  <img src="https://streak-stats.demolab.com/?user=AliHamza-Coder&theme=tokyonight&hide_border=true&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=888888&background=0D1117"
+    alt="GitHub Streak Stats" width="60%" />
+</picture>
 
 </div>
 
@@ -115,12 +136,12 @@ available  : ✅ Open to Freelance, Jobs & Collaborations
 
 <div align="center">
 
-![42 Repos](https://img.shields.io/badge/🗂️%2042%20Repositories-Actively%20Building-00D4FF?style=flat-square)
-![Open Source](https://img.shields.io/badge/🌟%20Open%20Source-Contributor-FF6B35?style=flat-square)
-![Freelance](https://img.shields.io/badge/💼%20Freelance-Available%20Now-brightgreen?style=flat-square)
-![Student](https://img.shields.io/badge/🎓%20IT%20Student-Pakistan-0057FF?style=flat-square)
-![Web Dev](https://img.shields.io/badge/🌐%20Web%20Developer-Full%20Stack%20Learning-00D4FF?style=flat-square)
-![Cybersecurity](https://img.shields.io/badge/🛡️%20Cybersecurity-Pentesting%20Enthusiast-FF6B35?style=flat-square)
+![42 Repos](https://img.shields.io/badge/🗂️_42_Repos-Actively%20Building-00D4FF?style=flat-square)
+![Open Source](https://img.shields.io/badge/🌟_Open_Source-Contributor-FF6B35?style=flat-square)
+![Freelance](https://img.shields.io/badge/💼_Freelance-Available%20Now-brightgreen?style=flat-square)
+![AI Dev](https://img.shields.io/badge/🤖_AI_Automation-Python%20Builder-9B59B6?style=flat-square)
+![Desktop](https://img.shields.io/badge/🖥️_Desktop_Apps-Eel%20%26%20Tkinter-0057FF?style=flat-square)
+![Cybersecurity](https://img.shields.io/badge/🛡️_Cybersecurity-Pentesting%20Enthusiast-FF6B35?style=flat-square)
 
 </div>
 
@@ -130,9 +151,9 @@ available  : ✅ Open to Freelance, Jobs & Collaborations
 
 <div align="center">
 
-| 📅 On GitHub Since | 📦 Public Repos | 🔥 Commits | ⭐ Current Streak | 🏅 Longest Streak |
-|:---:|:---:|:---:|:---:|:---:|
-| Sep 2024 | 42 | 485+ | 3 Days | 8 Days |
+| 📅 GitHub Since | 📦 Repos | 🔥 Commits | ⭐ Cur. Streak | 🏅 Best Streak | 👥 Followers | ⭐ Stars |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Sep 2024 | 42 | 485+ | 3 Days | 8 Days | 5 | 17 |
 
 </div>
 
@@ -141,7 +162,7 @@ available  : ✅ Open to Freelance, Jobs & Collaborations
 ## 💼 Hire Me / Work With Me
 
 > I'm available for **freelance projects**, **remote work**, and **open-source collaborations**.
-> Whether you need a website, web app, or software solution — let's build something great together!
+> Whether you need a website, web app, AI automation tool, or desktop software — let's build something great together!
 
 <div align="center">
 
