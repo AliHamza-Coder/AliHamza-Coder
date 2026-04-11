@@ -94,12 +94,12 @@ available  : ✅ Open to Freelance, Jobs & Collaborations
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AliHamza-Coder&theme=tokyonight&hide_border=true&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=AliHamza-Coder&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=00D4FF&title_color=00D4FF" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=AliHamza-Coder&theme=tokyonight&hide_border=true&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AliHamza-Coder&theme=tokyonight&hide_border=true&show_icons=true&icon_color=00D4FF&title_color=00D4FF&count_private=false&include_all_commits=false" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHamza-Coder&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=00D4FF" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHamza-Coder&theme=tokyonight&hide_border=true&layout=compact&title_color=00D4FF&count_private=false" width="40%" />
 
 </div>
 
@@ -109,7 +109,7 @@ available  : ✅ Open to Freelance, Jobs & Collaborations
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AliHamza-Coder&theme=tokyonight&no-frame=true&margin-w=8&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=AliHamza-Coder&theme=tokyonight&no-frame=true&margin-w=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" />
 
 </div>
 
@@ -119,7 +119,7 @@ available  : ✅ Open to Freelance, Jobs & Collaborations
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AliHamza-Coder&theme=tokyo-night&hide_border=true&color=00D4FF&line=00D4FF&point=FF6B35" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AliHamza-Coder&theme=tokyo-night&hide_border=true&color=00D4FF&line=00D4FF&point=FF6B35&area=true" width="100%" />
 
 </div>
 
