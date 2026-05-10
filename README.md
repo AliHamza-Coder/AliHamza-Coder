@@ -1,8 +1,11 @@
+<!-- ═══════════════════════════════════════════════════════════════════
+     Ali Hamza | AliHamza-Coder GitHub Profile README
+     SEO-Optimized | Dynamic Stats | All links working
+     ═══════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0057FF&height=200&section=header&text=Ali%20Hamza&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Tech%20Explorer%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=👋+Hi%2C+I'm+Ali+Hamza!;Web+%26+Software+Developer;Python+%7C+AI+%7C+Automation+Engineer;Desktop+Apps+with+Eel+%26+Tkinter+🖥️;Always+Exploring+New+Technologies+🚀;Available+for+Freelance+%26+Collaboration+💼)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Ali+Hamza!+%F0%9F%91%8B;Full-Stack+%26+Software+Developer;Python+%7C+AI+%7C+Automation+Engineer;Desktop+Apps+%7C+Cybersecurity+Enthusiast;Available+for+Freelance+%26+Collaboration+%F0%9F%92%BC)](https://github.com/AliHamza-Coder)
 
 </div>
 
@@ -10,26 +13,27 @@
 
 ## 👨‍💻 About Me
 
-> 🎯 *IT student passionate about web, software development & AI automation — building dynamic websites, desktop tools, and intelligent solutions that make a real impact.*
+> **Ali Hamza** — IT Student & Self-Taught Developer from Pakistan 🇵🇰
+> Building web apps, AI automation tools, and desktop software that solve real problems.
 
-```yaml
+```
 name       : Ali Hamza
-title      : Web & Software Developer | Python Automation & AI Enthusiast
-focus      : Web Dev | AI Automation | Desktop Apps | Cybersecurity
+username   : AliHamza-Coder
+title      : Full-Stack Developer | Python AI & Automation | Desktop Apps
+focus      : Web Dev · AI Automation · Desktop Apps · Cybersecurity
 location   : Pakistan 🇵🇰
 education  : IT Student
+email      : mralihamza.bz@gmail.com
 available  : ✅ Open to Freelance, Jobs & Collaborations
 ```
 
-- 🌍 Building **dynamic websites** and **robust software solutions**
-- 🤖 Working on **Python AI automation** tools and intelligent scripts
-- 🖥️ Developing **desktop applications** using **Eel**, **Tkinter** & Trumi framework
-- 🔭 Coding with **Python, JavaScript, HTML & CSS** daily
-- 🛡️ Passionate about **network pentesting** & **cybersecurity tools**
-- 🛒 Developing **ecommerce platforms** and real-world web apps
-- 🌟 Contributing to **open-source** projects (e.g. Microsoft Activation Scripts)
-- 🤝 Always open to **freelance work**, collaboration, and new opportunities
-- ⚡ *Fun Fact:* I love exploring cutting-edge tech and building things that make a difference!
+- 🌍 Building **full-stack web apps** with React, Next.js, Node.js & Python
+- 🤖 Developing **AI & automation tools** using Python, OpenAI API & Selenium
+- 🖥️ Creating **desktop applications** with Eel, Tkinter & custom frameworks
+- 🛡️ Exploring **network pentesting** & cybersecurity tools (Kali Linux, Wireshark)
+- 🛒 Building **ecommerce platforms** and real-world production apps
+- 🌟 Contributing to **open-source** (Microsoft Activation Scripts & more)
+- ⚡ **Fun Fact:** I've been coding for under a year and already have 42+ public repos!
 
 ---
 
@@ -37,12 +41,14 @@ available  : ✅ Open to Freelance, Jobs & Collaborations
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mralihamza.bz@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mralihamza.bz@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliHamza-Coder)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL.com)
 
 </div>
+
+> 📌 **Note to self:** Replace `YOUR-LINKEDIN-USERNAME` and `YOUR-PORTFOLIO-URL` above with your real links!
 
 ---
 
@@ -60,16 +66,15 @@ available  : ✅ Open to Freelance, Jobs & Collaborations
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### 🤖 AI, Automation & Desktop
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Automation](https://img.shields.io/badge/Python_Automation-3776AB?style=flat-square&logo=python&logoColor=white)
-![Eel](https://img.shields.io/badge/Eel_Framework-00D4FF?style=flat-square&logo=python&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-FF6B35?style=flat-square&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6B35?style=flat-square&logo=python&logoColor=white)
+![Eel](https://img.shields.io/badge/Eel_Framework-00D4FF?style=flat-square&logo=python&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
@@ -78,27 +83,25 @@ available  : ✅ Open to Freelance, Jobs & Collaborations
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-### 🔐 Cybersecurity & Networking
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-| 🏆 Project | 📝 Description | 🛠️ Tech Stack | 🔗 |
+| 🏆 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
 |---|---|---|---|
-| **Microsoft Activation Scripts** | Open-source Windows/Office activation utility | Python, Batch | [View](#) |
-| **Network Pentesting Tools** | Custom scripts for network security analysis | Python, Linux | [View](#) |
-| **Ecommerce Solution** | Full-featured online store with cart & product management | HTML, CSS, JS | [View](#) |
-| **Python AI Automation** | Intelligent automation scripts & AI-powered tools | Python, OpenAI | [View](#) |
-| **Desktop App (Eel)** | Web-based desktop application using Eel framework | Python, Eel, HTML/CSS | [View](#) |
+| **Private-AI-Everywhere** | Open-source Windows/Office activation & AI utility | Python, Batch | [View Repo](https://github.com/AliHamza-Coder/Private-AI-Everywhere) |
+| **My-Custom-CRM** | Custom CRM system with full client management | TypeScript, Node.js | [View Repo](https://github.com/AliHamza-Coder/My-Custom-CRM) |
+| **Drive Master Tool** | Google Drive automation and management tool | Python | [View Repo](https://github.com/AliHamza-Coder/drive-master-tool) |
+| **Env Tool** | Environment variable manager for developers | Python | [View Repo](https://github.com/AliHamza-Coder/env-tool) |
+| **Face Recognition Attendance** | AI-powered attendance system using face recognition | Python, OpenCV | [View Repo](https://github.com/AliHamza-Coder/face-recognition-attendance-system) |
+| **Final Year Project** | Capstone project showcasing full-stack skills | Python | [View Repo](https://github.com/AliHamza-Coder/FinalYearProject) |
 
 ---
 
@@ -106,54 +109,43 @@ available  : ✅ Open to Freelance, Jobs & Collaborations
 
 <div align="center">
 
-<!-- Quick-glance stats badges — always render, zero downtime -->
-![Repos](https://img.shields.io/badge/Public%20Repos-42-00D4FF?style=for-the-badge&logo=github&logoColor=white)
-![Commits](https://img.shields.io/badge/Total%20Commits-485-FF6B35?style=for-the-badge&logo=git&logoColor=white)
-![Streak](https://img.shields.io/badge/Current%20Streak-3%20Days-00D4FF?style=for-the-badge&logo=apachespark&logoColor=white)
-![Longest Streak](https://img.shields.io/badge/Longest%20Streak-8%20Days-FF6B35?style=for-the-badge&logo=apachespark&logoColor=white)
+<!-- Dynamic Stats — these auto-update! -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliHamza-Coder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHamza-Coder&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-<br/>
+</div>
 
-![Followers](https://img.shields.io/github/followers/AliHamza-Coder?label=Followers&style=for-the-badge&logo=github&color=00D4FF&logoColor=white)
-![Stars](https://img.shields.io/github/stars/AliHamza-Coder?label=Total%20Stars&style=for-the-badge&logo=github&color=FF6B35&logoColor=white)
-![Since](https://img.shields.io/badge/On%20GitHub%20Since-Sep%202024-0057FF?style=for-the-badge&logo=github&logoColor=white)
+<div align="center">
 
-<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AliHamza-Coder&theme=tokyonight&hide_border=true)](https://github.com/AliHamza-Coder)
 
-<!-- Streak card — best available hosted service -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com/?user=AliHamza-Coder&theme=tokyonight&hide_border=true&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=888888&background=0D1117" />
-  <img src="https://streak-stats.demolab.com/?user=AliHamza-Coder&theme=tokyonight&hide_border=true&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=888888&background=0D1117"
-    alt="GitHub Streak Stats" width="60%" />
-</picture>
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AliHamza-Coder&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/AliHamza-Coder)
 
 </div>
 
 ---
 
-## 🏆 Achievements & Milestones
+## 📈 Contribution Graph
 
 <div align="center">
 
-![42 Repos](https://img.shields.io/badge/🗂️_42_Repos-Actively%20Building-00D4FF?style=flat-square)
-![Open Source](https://img.shields.io/badge/🌟_Open_Source-Contributor-FF6B35?style=flat-square)
-![Freelance](https://img.shields.io/badge/💼_Freelance-Available%20Now-brightgreen?style=flat-square)
-![AI Dev](https://img.shields.io/badge/🤖_AI_Automation-Python%20Builder-9B59B6?style=flat-square)
-![Desktop](https://img.shields.io/badge/🖥️_Desktop_Apps-Eel%20%26%20Tkinter-0057FF?style=flat-square)
-![Cybersecurity](https://img.shields.io/badge/🛡️_Cybersecurity-Pentesting%20Enthusiast-FF6B35?style=flat-square)
+[![Ali Hamza's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AliHamza-Coder&theme=tokyo-night&hide_border=true)](https://github.com/AliHamza-Coder)
 
 </div>
 
 ---
 
-## 📈 Activity Overview
+## 🏆 Achievements
 
 <div align="center">
 
-| 📅 GitHub Since | 📦 Repos | 🔥 Commits | ⭐ Cur. Streak | 🏅 Best Streak | 👥 Followers | ⭐ Stars |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Sep 2024 | 42 | 485+ | 3 Days | 8 Days | 5 | 17 |
+![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
+![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)
+![Quickdraw](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)
 
 </div>
 
@@ -166,21 +158,28 @@ available  : ✅ Open to Freelance, Jobs & Collaborations
 
 <div align="center">
 
-[![Hire Me](https://img.shields.io/badge/💼%20Hire%20Me-00D4FF?style=for-the-badge&logoColor=black)](mailto:mralihamza.bz@email.com)
-[![View Projects](https://img.shields.io/badge/🚀%20View%20My%20Work-181717?style=for-the-badge&logoColor=white)](https://github.com/AliHamza-Coder?tab=repositories)
+[![Hire Me](https://img.shields.io/badge/%F0%9F%92%BC_Hire_Me-00D4FF?style=for-the-badge&logoColor=black)](mailto:mralihamza.bz@gmail.com)
+[![View Projects](https://img.shields.io/badge/%F0%9F%9A%80_View_My_Work-181717?style=for-the-badge&logoColor=white)](https://github.com/AliHamza-Coder?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%94%97_Connect_on_LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
 
 </div>
 
 ---
 
-<div align="center">
-
 ### 💬 *"Building today what others will use tomorrow."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=AliHamza-Coder&color=00D4FF&style=flat-square&label=Profile+Views)
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=AliHamza-Coder&color=00D4FF&style=flat-square&label=Profile+Views)](https://github.com/AliHamza-Coder)
 
 ⭐ **Found my work useful? Star my repositories — it motivates me to build more!** ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0057FF,100:00D4FF&height=100&section=footer" width="100%"/>
-
 </div>
+
+---
+
+<!-- SEO Keywords (helps GitHub search & Google index this profile)
+     Ali Hamza | AliHamza-Coder | Pakistani Developer | Full Stack Developer Pakistan
+     Python Developer | React Developer | AI Automation | Cybersecurity | Freelance Developer
+     Web Developer Pakistan | Next.js Developer | Node.js | Open Source Contributor
+-->
