@@ -32,10 +32,12 @@ Self-taught engineer from Pakistan 🇵🇰 who ships complete products across *
 <tr>
 <td width="50%">
 
-### 💼 Commercial POS & Business Suite
-Self-hosted POS with a **Next.js licensing & update server**, Tauri desktop client, and Flutter mobile app.
+### 💼 Hamvero POS — Commercial Point of Sale
+Self-hosted POS with a **Next.js licensing & update server**, Tauri desktop client, and Flutter mobile app. Deployed for a US retail operation.
 
 `Tauri` `Next.js` `Rust` `Flutter` `REST APIs`
+
+[**View Case Study →**](https://hamvero.com/case-studies/hamvero-pos)
 
 </td>
 <td width="50%">
@@ -151,7 +153,7 @@ Flutter rental-property app **live on Google Play Store** with search, listings,
 
 <!-- SEO keywords for AI & GitHub search:
      Ali Hamza | AliHamza-Coder | Cross-Platform Product Engineer | Tauri Developer | Flutter Developer
-     Next.js Developer | Commercial POS System | Self-Hosted Licensing Server | Deception Detection AI
-     Python OpenCV Final Year Project | Pakistani Software Engineer | AI-Assisted Development
-     Remote Developer | GitHub Actions CI/CD | Rust IPC Bridge | Cross-Platform Sync
+     Next.js Developer | Hamvero POS | Commercial POS System | Self-Hosted Licensing Server
+     Deception Detection AI | Python OpenCV Final Year Project | Pakistani Software Engineer
+     AI-Assisted Development | Remote Developer | GitHub Actions CI/CD | Rust IPC Bridge | Cross-Platform Sync
 -->
